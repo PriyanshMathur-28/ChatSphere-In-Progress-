@@ -1,7 +1,7 @@
 Highlights:
 
-🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-🎃 Authentication && Authorization with JWT
-👌 Global state management with Zustand
-🐞 Error handling both on the server and on the client
+🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI <br>
+🎃 Authentication && Authorization with JWT<br>
+👌 Global state management with Zustand<br>
+🐞 Error handling both on the server and on the client<br>
 ⏳ And much more!
